@@ -1,0 +1,15 @@
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\bin\Debug\BowlingExample-IT69-2019.exe.config
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\bin\Debug\BowlingExample-IT69-2019.exe
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\bin\Debug\BowlingExample-IT69-2019.pdb
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.csprojAssemblyReference.cache
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\MainWindow.g.cs
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\App.g.cs
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019_MarkupCompile.cache
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019_MarkupCompile.lref
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\MainWindow.baml
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.g.resources
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample_IT69_2019.Properties.Resources.resources
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.csproj.GenerateResource.cache
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.csproj.CoreCompileInputs.cache
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.exe
+C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.pdb

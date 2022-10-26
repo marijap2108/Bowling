@@ -1,0 +1,81 @@
+﻿<Window x:Class="BowlingExample_IT69_2019.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BowlingExample_IT69_2019"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10" KeyUp="Grid_KeyDown">
+
+        <Grid.RowDefinitions>
+            <RowDefinition MaxHeight="100" />
+            <RowDefinition MaxHeight="50" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24">
+            Bowling Example Task - IT69/2019
+        </Label>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25" />
+                <RowDefinition Height="25" />
+            </Grid.RowDefinitions>
+            <TextBox Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">New player</TextBox>
+            <TextBox x:Name="f1t1" Grid.Row="0" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"/>
+            <TextBox x:Name="f1t2" Grid.Row="0" Grid.Column="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f1" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f2t1" Grid.Row="0" Grid.Column="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f2t2" Grid.Row="0" Grid.Column="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f2" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f3t1" Grid.Row="0" Grid.Column="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f3t2" Grid.Row="0" Grid.Column="6" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f3" Grid.Row="1" Grid.Column="5" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f4t1" Grid.Row="0" Grid.Column="7" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f4t2" Grid.Row="0" Grid.Column="8" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f4" Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f5t1" Grid.Row="0" Grid.Column="9" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f5t2" Grid.Row="0" Grid.Column="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f5" Grid.Row="1" Grid.Column="9" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f6t1" Grid.Row="0" Grid.Column="11" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f6t2" Grid.Row="0" Grid.Column="12" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f6" Grid.Row="1" Grid.Column="11" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f7t1" Grid.Row="0" Grid.Column="13" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f7t2" Grid.Row="0" Grid.Column="14" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f7" Grid.Row="1" Grid.Column="13" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f8t1" Grid.Row="0" Grid.Column="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f8t2" Grid.Row="0" Grid.Column="16" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f8" Grid.Row="1" Grid.Column="15" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f9t1" Grid.Row="0" Grid.Column="17" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f9t2" Grid.Row="0" Grid.Column="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f9" Grid.Row="1" Grid.Column="17" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+            <TextBox x:Name="f10t1" Grid.Row="0" Grid.Column="19" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f10t2" Grid.Row="0" Grid.Column="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f10t3" Grid.Row="0" Grid.Column="21" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextChanged"></TextBox>
+            <TextBox x:Name="f10" Grid.Row="1" Grid.Column="19" Grid.ColumnSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsEnabled="False"></TextBox>
+        </Grid>
+    </Grid>
+</Window>
