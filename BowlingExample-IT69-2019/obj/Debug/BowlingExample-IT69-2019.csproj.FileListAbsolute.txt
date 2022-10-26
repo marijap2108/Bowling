@@ -1,7 +1,6 @@
 C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\bin\Debug\BowlingExample-IT69-2019.exe.config
 C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\bin\Debug\BowlingExample-IT69-2019.exe
 C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\bin\Debug\BowlingExample-IT69-2019.pdb
-C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019.csprojAssemblyReference.cache
 C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\MainWindow.g.cs
 C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\App.g.cs
 C:\Users\rasar\Desktop\faks\uris\BowlingExample-IT69-2019\BowlingExample-IT69-2019\obj\Debug\BowlingExample-IT69-2019_MarkupCompile.cache
